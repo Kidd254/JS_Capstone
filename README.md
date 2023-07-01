@@ -38,7 +38,7 @@ This project is about the creation of a dynamic app, that shows in a responsive 
 
 **[JavaScript Capstone - TV Shows]** For this project, we have put into practice all we have learned during the JavaScript module. It was also our first pair programing project to be run this way, following project management tools as Kanban board and daily updates. In the technical part, we have applied Js best practicies using ES6 syntax & modules, use webpack, Gitflow and use 2 different APIs.
 
-[Find here video that shows the project details and functionality:](https://drive.google.com/file/d/174M16aVDuy5hUGUkCbcNxvBpU8lINgAJ/view?usp=drive_link)
+Click [here](https://drive.google.com/file/d/174M16aVDuy5hUGUkCbcNxvBpU8lINgAJ/view?usp=drive_link) to view a video that shows the project details and functionality
 
 ## 🛠 Built With <a name="built-with"></a>
 
