@@ -32,7 +32,7 @@
   - [📝 License ](#-license-)
 
 
-# 📖 [JavaScript Capstone - TV Shows] <a name="about-project"></a>
+# 📖 JavaScript Capstone - TV Shows <a name="about-project"></a>
 
 This project is about the creation of a dynamic app, that shows in a responsive way a different selection of actual TV Shows, and giving a selection on demand by applying a search with your input desired. 
 
