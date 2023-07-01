@@ -134,7 +134,7 @@ No test available yet.
 
 You can deploy this project using:
 
-([My portfolio deployment link] (https://hfg43.github.io/JS_Capstone/).
+[My portfolio deployment link](https://hfg43.github.io/JS_Capstone/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
