@@ -5,7 +5,6 @@
   
   <img src="./src/images/tv%20icon.png" alt="logo" width="140"  height="auto" />
   <br/>
-
 <h3><b>README</b></h3>
 
 </div>
